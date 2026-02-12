@@ -1,0 +1,2 @@
+/home/desk7/BoundaryProximityAlert/boundary_alert/build/.cxx/release/6g3b4u5z/arm64-v8a/CMakeFiles/edit_cache.dir
+/home/desk7/BoundaryProximityAlert/boundary_alert/build/.cxx/release/6g3b4u5z/arm64-v8a/CMakeFiles/rebuild_cache.dir
