@@ -1,0 +1,95 @@
+# =========================
+# Flutter / Dart
+# =========================
+
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# Coverage
+coverage/
+
+# Generated files
+*.g.dart
+*.freezed.dart
+
+# =========================
+# Android
+# =========================
+
+android/.gradle/
+android/local.properties
+android/key.properties
+android/app/*.keystore
+android/app/*.jks
+*.keystore
+*.jks
+
+# =========================
+# iOS
+# =========================
+
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Flutter/app.flx
+ios/Flutter/app.zip
+ios/Flutter/flutter_assets/
+ios/ServiceDefinitions.json
+
+ios/Pods/
+ios/.symlinks/
+ios/Runner.xcworkspace/
+
+# Xcode
+ios/Runner.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/xcuserdata/
+ios/Runner.xcodeproj/project.xcworkspace/xcuserdata/
+*.xcuserstate
+*.xcuserdata
+
+# =========================
+# macOS
+# =========================
+
+macos/Pods/
+macos/Flutter/ephemeral/
+macos/Runner.xcworkspace/
+macos/Runner.xcodeproj/xcuserdata/
+
+# =========================
+# Linux
+# =========================
+
+linux/flutter/ephemeral/
+
+# =========================
+# Windows
+# =========================
+
+windows/flutter/ephemeral/
+
+# =========================
+# IDE
+# =========================
+
+.idea/
+.vscode/
+*.iml
+
+# =========================
+# Logs
+# =========================
+
+*.log
+
+# =========================
+# OS Files
+# =========================
+
+.DS_Store
+Thumbs.db
